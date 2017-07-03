@@ -8,3 +8,5 @@ RSEM
 $ tar zxvf RSEM-1.3.0.tar.gz
 $ cd RSEM-1.3.0
 $ make
+# 需要使用4.4.7的gcc, g++, cpp, c++版本编译，最新版本不支持编译
+
